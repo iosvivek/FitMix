@@ -10,14 +10,14 @@
 	<string>Fitmix</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>E1BF8DCBC0110D8D5FACE260FE078382EC6491E1</key>
+		<key>7E36962EDED5C487AB45D54A13FB6CBDEFE2C729</key>
 		<string>https://github.com/iosvivek/FitMix-New.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Fitmix.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>E1BF8DCBC0110D8D5FACE260FE078382EC6491E1</key>
+		<key>7E36962EDED5C487AB45D54A13FB6CBDEFE2C729</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
@@ -25,14 +25,14 @@
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>E1BF8DCBC0110D8D5FACE260FE078382EC6491E1</string>
+	<string>7E36962EDED5C487AB45D54A13FB6CBDEFE2C729</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>E1BF8DCBC0110D8D5FACE260FE078382EC6491E1</string>
+			<string>7E36962EDED5C487AB45D54A13FB6CBDEFE2C729</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Fitmix_19-8-2015</string>
 		</dict>
